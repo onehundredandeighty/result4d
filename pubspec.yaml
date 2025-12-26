@@ -1,0 +1,12 @@
+name: result4d
+version: 0.0.0
+description: Functional result type for Dart
+repository: https://github.com/onehundredandeighty/result4d
+environment:
+  sdk: ^3.7.0
+topics:
+  - result
+  - functional-programming
+
+dev_dependencies:
+  test: ^1.16.0
