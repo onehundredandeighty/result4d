@@ -1,6 +1,6 @@
 name: result4d
 version: 0.0.0
-description: Functional result type for Dart
+description: Functional result type for Dart. Inspired by Kotlin's result4k library.
 repository: https://github.com/onehundredandeighty/result4d
 environment:
   sdk: ^3.7.0
