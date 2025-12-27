@@ -1,5 +1,8 @@
 # Result4D
 
+[![Dart](https://img.shields.io/badge/dart-3.7%2B-blue)](https://dart.dev)
+[![License](https://img.shields.io/badge/license-Apache2-green)](LICENSE)
+
 A functional Result type for Dart, inspired by the Kotlin [result4k](https://github.com/fork-handles/forkhandles/tree/trunk/result4k) library.
 
 ## Overview
